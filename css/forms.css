@@ -22,16 +22,16 @@ form>div {
 }
 
 input:required {
-      border: 1px solid red;
+      border: 1px solid rgb(255, 106, 47);
 }
 
 input:optional, textarea:optional {
-     background-color:#f1f1f1;
-     border:1px solid #ccc;
+     background-color:#ffff;
+     border:1px solid #ffffff;
 }
 
 input[type="submit"], input[type="button"] {
-  background-color: #fff;
+  background-color: #ffffff;
   border-radius: 4px;
   border: solid 1px #ccc;
   padding: 0.3em 0.5em;

@@ -1,7 +1,7 @@
 /* Global rules */
 .topnav {
     margin: auto;
-    background-color: rgb(95,95,95);
+    background-color: rgba(95, 95, 95, 0.122);
     overflow: auto;
 }
 
